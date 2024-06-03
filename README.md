@@ -1,4 +1,4 @@
-## 项目名称：HypnoHealth - AI催眠与健康管理伴侣
+## 项目名称：Sui HypnoHealth Mate- AI催眠与健康管理伴侣
 
 ### 核心功能：
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Project Name: HypnoHealth - AI Hypnosis and Health Management Mate
+## Project Name: Sui HypnoHealth Mate - AI Hypnosis and Health Management Mate
 
 ### Core Features:
 
